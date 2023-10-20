@@ -1,0 +1,57 @@
+#fundo{
+    background-color: rgb(26, 234, 234);
+}
+ 
+.container
+{  margin-top: 10px;
+    background-color: blueviolet;
+
+}
+
+.card{
+    float: left;
+    margin: 60px;
+    
+}
+
+ 
+ footer
+{
+    width: auto;
+    height: 200px;
+    background-color: blue;
+    margin-top: 20px;
+
+}
+
+ 
+
+.progress{
+    margin: 20px;
+    display: inline-block;
+}
+
+.img-thumbnail{
+
+    display: block;
+    
+}
+
+
+
+#div02 h1{
+
+   color: rgb(14, 231, 32);
+   padding: 50px;
+   margin-top: 180px;
+   
+}
+
+
+footer h1
+{
+    text-align: center;
+    color: #dad9d9;
+    padding: 30px;
+}
+
